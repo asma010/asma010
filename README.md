@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I am Asma!
 
-<!--
-**asma010/asma010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a results-driven Software Developer with 2 years of experience in full-cycle development, backend scripting, and advanced reporting. I have a strong foundation in building efficient systems using JavaScript, SQL, and C#, and I’m skilled at developing dynamic, data-driven reports with SSRS and Crystal Reports.
 
-Here are some ideas to get you started:
+🛠️ **Technical Highlights**  
+- **Languages**: JavaScript, C#, SQL, Python (basic), C/C++  
+- **Frontend**: React, Vue.js, Redux, Recoil  
+- **Backend & Tools**: Firebase, REST APIs, SSMS, Accela  
+- **Reporting**: SSRS, Crystal Reports, Power BI  
+- **Testing**: Jest, Unit Testing  
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**  
+Bachelor’s in Computer Science (Minor in Mathematics)  
+Ranked 2nd out of 200 students
+
+🌱 I’m passionate about building scalable tools, optimizing systems, and continuously expanding my skill set in software development.
+
+📫 **Let's connect**  
+Feel free to reach out via http://www.linkedin.com/in/asma-habchi-037167206
